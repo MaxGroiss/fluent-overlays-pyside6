@@ -19,6 +19,16 @@ Windows 11 Fluent Design **floating overlays** for PySide6 — a context menu an
 
 Each file is **standalone and single-file** — copy just the one you need. Zero dependencies beyond PySide6.
 
+## Preview
+### Context Menu
+![fcm_wm](fcm_wm.png)
+![fcm_dm](fcm_dm.png)
+### Tooltip
+![ftt_wm](ftt_wm.png)
+![ftt_dm](ftt_dm.png)
+
+
+
 ## Install
 
 Copy the file(s) you want into your project:
